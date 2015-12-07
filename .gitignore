@@ -11,3 +11,9 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+_assets
+_assets/*
+_worksheets
+_worksheets/*
+*.psd
+_ignore
